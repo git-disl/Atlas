@@ -6,5 +6,5 @@ Hybrid cloud provides an attractive solution to microservices for better resourc
 * `./locust`: The source code of the load generator
 * `./migration-advisor`: The source code of the migration advisor
 
-> Ka-Ho Chow, Umesh Deshpande, Veera Deenadhayalan, Sangeetha Seshadri, and Ling Liu, "Atlas: Hybrid Cloud Migration Advisor for Interactive Microservices," ACM European Conference on Computer Systems (EuroSys), Athens, Greece, Apr. 22-25, 2024.
+> Ka-Ho Chow, Umesh Deshpande, Veera Deenadhayalan, Sangeetha Seshadri, and Ling Liu, "[Atlas: Hybrid Cloud Migration Advisor for Interactive Microservices](https://arxiv.org/pdf/2311.06962.pdf)," ACM European Conference on Computer Systems (EuroSys), Athens, Greece, Apr. 22-25, 2024.
 
